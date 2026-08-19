@@ -1,6 +1,8 @@
 #  Gestor de Gastos y Presupuesto en Java 
-##si
-
+so 
+---
+##  Si
+---
 Aplicación de consola interactiva desarrollada en **Java** para la gestión y control de finanzas personales. El sistema permite registrar gastos, monitorear el acumulado total y validar límites de presupuesto en tiempo real.
 
 ---
