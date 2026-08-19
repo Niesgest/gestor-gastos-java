@@ -1,10 +1,10 @@
-# 💰 Gestor de Gastos y Presupuesto en Java
+#  Gestor de Gastos y Presupuesto en Java
 
 Aplicación de consola interactiva desarrollada en **Java** para la gestión y control de finanzas personales. El sistema permite registrar gastos, monitorear el acumulado total y validar límites de presupuesto en tiempo real.
 
 ---
 
-## 🚀 Funcionalidades
+##  Funcionalidades
 
 - **Definición de presupuesto:** Permite establecer un monto máximo de gasto al iniciar el programa.
 - **Registro dinámico:** Agrega nuevos gastos detallando descripción y monto.
@@ -13,7 +13,7 @@ Aplicación de consola interactiva desarrollada en **Java** para la gestión y c
 
 ---
 
-## 🛠️ Tecnologías y Conceptos Aplicados
+##  Tecnologías y Conceptos Aplicados
 
 - **Lenguaje:** Java 17+
 - **Programación Orientada a Objetos (POO):** Uso de `record` para modelado inmutable de datos.
@@ -26,7 +26,7 @@ Aplicación de consola interactiva desarrollada en **Java** para la gestión y c
 
 ---
 
-## 💻 Instrucciones de Ejecución
+##  Instrucciones de Ejecución
 
 ### Prerrequisitos
 - Tener instalado el **Java Development Kit (JDK) 17** o superior.
