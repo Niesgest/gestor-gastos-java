@@ -35,3 +35,19 @@ Aplicación de consola interactiva desarrollada en **Java** para la gestión y c
 1. Clona este repositorio o descarga el archivo fuente:
    ```bash
    git clone [https://github.com/tu-usuario/gestor-gastos-java.git](https://github.com/tu-usuario/gestor-gastos-java.git)
+   Compilar el archivo:
+2. Compilar el archivo
+Bash
+javac Registro/GastosRegistro.java
+
+3. Ejecutar la aplicación:
+
+Bash
+java Registro.GastosRegistro
+
+Autor
+Desarrollador: Jose Lozada
+
+LinkedIn: https://www.linkedin.com/in/jose-armando-lozada-aguirre-81b6283b2/
+
+GitHub: Niesgest
